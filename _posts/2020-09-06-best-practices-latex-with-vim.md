@@ -1,11 +1,16 @@
 ## latex using vim: best practices
-when i started of academic writing, my first instinct was to use vim as my editor for latex.
-till then, i have been using vim for programming (mostly C and python).
+when i began academic writing, my first instinct was to use vim as my editor for latex.
+i had been using vim for programming (mostly C and python) for quite a while before i started editing latex.
 navigation in vim was too revolutionary a concept for me when i first came across it.
 it was just so good that i tried using vimperator on my browser and pdf viewers with vim bindings (zathura) for a time.
 i did not even bother with trying out emacs because of how good i found vim as an editor.
 but after i came to theoretical research, i have tried out many editors,
-**viz** atom, sublime, even emacs for a while, and very recently vscode (which i still consider a viable option, more on this later).
+*viz* atom, sublime, even emacs for a while, and very recently vscode (which i still consider a viable option; more on this later).
+
+this post is not trying to make a case for vim as an editor for latex.
+rather, this is for the people who are already convinced about using vim to edit latex.
+these are some guidelines for writing the code such that it is easier to edit and navigate.
+{: .alert .alert-warning}
 
 in this post, i wanted to discuss various *guidelines* i find myself following as i type and edit and navigate latex files more and more.
 in doing this, i am at the risk of looking stupid, for there could be more optimal ways to do things that i am trying to do here.
