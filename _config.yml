@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "varun narayanan"
+  name             : #"varun narayanan"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "research scholar"
   location         : # "tata institute of fundamental research"
