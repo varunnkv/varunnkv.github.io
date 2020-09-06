@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "varun narayanan"
 title_separator          : "-"
-subtitle                 : "home page"
+subtitle                 : # "home page"
 name                     : "varun narayanan"
 description              : "varun narayanan"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -142,6 +142,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "dblp"
+      icon: "ai ai-dblp"
+      url: "https://dblp.org/pid/224/9772.html"
 
 
 # Reading Files
