@@ -1,3 +1,7 @@
+---
+title: "latex using vim: best practices"
+---
+
 ## latex using vim: best practices
 when i began academic writing, my first instinct was to use vim as my editor for latex.
 i had been using vim for programming (mostly C and python) for quite a while before i started editing latex.
