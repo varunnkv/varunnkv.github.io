@@ -6,7 +6,7 @@ permalink: /publications/
 * **Oblivious Transfer in Incomplete Networks**
 	* with Vinod Prabhakaran
 	* TCC 2018
-	* [arXiv](https://www.iacr.org/cryptodb/data/paper.php?pubkey=28992)
+	* <i class="fa fa-gear fa-spin fa-2x"></i>[arXiv](https://www.iacr.org/cryptodb/data/paper.php?pubkey=28992)
 * **Private Index Coding**
 	* with Vinod Prabhakaran, Jithin Ravi, Vivek Mishra, Bikash K. Dey, Nikhil Karamchandani
 	* an earlier version of this appeared in ISIT 2018
