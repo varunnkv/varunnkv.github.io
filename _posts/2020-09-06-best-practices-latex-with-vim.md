@@ -7,7 +7,7 @@ i did not even bother with trying out emacs because of how good i found vim as a
 but after i came to theoretical research, i have tried out many editors,
 *viz* atom, sublime, even emacs for a while, and very recently vscode (which i still consider a viable option; more on this later).
 
-this post is not trying to make a case for vim as an editor for latex.
+**disclaimer** this post is not trying to make a case for vim as an editor for latex.
 rather, this is for the people who are already convinced about using vim to edit latex.
 these are some guidelines for writing the code such that it is easier to edit and navigate.
 {: .notice--warning}
