@@ -99,9 +99,9 @@ author:
   location         : # "tata institute of fundamental research"
   email            :
   links:
-    - label: "Email"
+    - label: "<firstname>+nkv@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      text: "\<firstname\>\+\"nkv\"@gmail.com"
+      url: "\<firstname\>\+\"nkv\"@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
