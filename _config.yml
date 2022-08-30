@@ -99,7 +99,7 @@ author:
   location         : # "tata institute of fundamental research"
   email            :
   links:
-    - label: "<firstname>+nkv@gmail.com"
+    - label: "\<firstname\>+nkv@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "abc.com"
     - label: "Website"
@@ -119,7 +119,7 @@ author:
       url: "https://github.com/varunnkv"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
