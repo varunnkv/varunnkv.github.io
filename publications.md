@@ -4,9 +4,24 @@ author_profile: true
 permalink: /publications/
 ---
 #### Publications
+* **Secure Non-Interactive Reducibility is Decidable**
+	* with Kaartik Bhushan, Ankit Kumar Misra, and Manoj Prabhakaran
+	* to appear in TCC 2022
+* **Oblivious-Transfer Complexity of Noisy Coin-Toss via Secure Zero Communication Reductions**
+	* with Saumya Goyal, and Manoj Prabhakaran
+	* to appear in TCC 2022
 * **Private Index Coding**
 	* with  Jithin Ravi, Vivek K. Mishra, Bikash Kumar Dey, Nikhil Karamchandani, and Vinod M. Prabhakaran
 	* IEEE Trans. Inf. Theory 2022
+* **Secure Non-interactive Reduction and Spectral Analysis of Correlations**
+	* with 	Pratyush Agarwal, Shreya Pathak, Manoj Prabhakaran, Vinod M. Prabhakaran, and Mohammad Ali Rehan
+	* Eurocrypt 2022
+	* [<i class="ai ai-arxiv"  style="color: firebrick"></i> arXiv](https://eprint.iacr.org/2022/262)
+* **Byzantine Consensus Over Broadcast Channels**
+	* with 	Neha Sangwan, and Vinod M. Prabhakaran
+	* ISIT 2022
+	* Neha Sangwan received Jack Keil Wolf best student paper award
+	* [<i class="ai ai-arxiv"  style="color: firebrick"></i> arXiv](https://arxiv.org/abs/2205.06073)
 * **Secure Computation from One-Way Noisy Communication, or: Anti-correlation via Anti-concentration**
 	* with Shweta Agrawal, Yuval Ishai, Eyal Kushilevitz, Manoj Prabhakaran, Vinod Prabhakaran, and Alon Rosen
 	* Crypto 2021
@@ -32,6 +47,7 @@ permalink: /publications/
 #### PhD Thesis
 * **Secure Multiparty Computation with Limited Connectivity**
 	* 2021
+	* [<i class="fab fa-fw fa-youtube"  style="color: firebrick"></i> Youtube](https://www.youtube.com/watch?v=y_Hlvrh3acM&ab_channel=STCSTIFR)
 #### Master's Thesis
 * **Parallelization of Groebner Basis Algorithm**
 	* with Saravanan Vijayakumaran
