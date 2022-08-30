@@ -32,7 +32,6 @@ permalink: /publications/
 #### PhD Thesis
 * **Secure Multiparty Computation with Limited Connectivity**
 	* 2021
-	* [<i class="ai ai-youtube"  style="color: firebrick"></i> arXiv](https://www.youtube.com/watch?v=y_Hlvrh3acM&ab_channel=STCSTIFR)
 #### Master's Thesis
 * **Parallelization of Groebner Basis Algorithm**
 	* with Saravanan Vijayakumaran
