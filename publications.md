@@ -3,12 +3,19 @@ layout: single
 author_profile: true
 permalink: /publications/
 ---
+#### Publications
+* **Private Index Coding**
+	* with  Jithin Ravi, Vivek K. Mishra, Bikash Kumar Dey, Nikhil Karamchandani, and Vinod M. Prabhakaran
+	* IEEE Trans. Inf. Theory 2022
+* **Secure Computation from One-Way Noisy Communication, or: Anti-correlation via Anti-concentration**
+	* with Shweta Agrawal, Yuval Ishai, Eyal Kushilevitz, Manoj Prabhakaran, Vinod Prabhakaran, and Alon Rosen
+	* Crypto 2021
 * **Zero-Communication Reductions**
 	* with Manoj Prabhakaran and Vinod Prabhakaran
-	* to appear in TCC 2020
+	* TCC 2020
 * **Cryptography from One-Way Communication: On Completeness of Finite Channels**
 	* with Shweta Agrawal, Yuval Ishai, Eyal Kushilevitz, Manoj Prabhakaran, Vinod Prabhakaran, and Alon Rosen
-	* to appear in Asiacrypt 2020
+	* Asiacrypt 2020
 * **Private Two-Terminal Hypothesis Testing**
 	* with Vinod Prabhakaran and Manoj Mishra
 	* ISIT 2020
@@ -22,6 +29,10 @@ permalink: /publications/
 	* TCC 2018
 	* [<i class="ai ai-arxiv"  style="color: firebrick"></i> arXiv](https://www.iacr.org/cryptodb/data/paper.php?pubkey=28992)
 
+#### PhD Thesis
+* **Secure Multiparty Computation with Limited Connectivity**
+	* 2021
+	* [<i class="ai ai-youtube"  style="color: firebrick"></i> arXiv](https://www.youtube.com/watch?v=y_Hlvrh3acM&ab_channel=STCSTIFR)
 #### Master's Thesis
 * **Parallelization of Groebner Basis Algorithm**
 	* with Saravanan Vijayakumaran
