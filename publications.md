@@ -4,12 +4,27 @@ author_profile: true
 permalink: /publications/
 ---
 #### Publications
+* ** Perfect MPC over Layered Graphs
+	* with Bernardo David, Yuval Ishai, Anders Konring, Eyal Kushilevitz
+	* To appear in CRYPTO 2023
+    
+* ** One-Message Secure Reductions: On the Cost of Converting. \newline
+    * with Mahimna Kelkar, Yuval Ishai, Liav Zafar
+    * to appear in CRYPTO 2023
+    
+* ** Randomness Requirements for Three-Secret Sharing
+    * with Hari Krishnan Anilkumar, Aayush Rajesh, Manoj Prabhakaran, Vinod M. Prabhakaran
+    * to appear in ISIT 2023
+    
+* ** Complete Characterization of Broadcast and Pseudo-Signatures from Correlations. \newline
+    * with Vinod M. Prabhakaran, Neha Sangwan, Shun Watanabe
+    * EUROCRYPT 2023
 * **Secure Non-Interactive Reducibility is Decidable**
 	* with Kaartik Bhushan, Ankit Kumar Misra, and Manoj Prabhakaran
-	* to appear in TCC 2022
+	* TCC 2022
 * **Oblivious-Transfer Complexity of Noisy Coin-Toss via Secure Zero Communication Reductions**
 	* with Saumya Goyal, and Manoj Prabhakaran
-	* to appear in TCC 2022
+	* TCC 2022
 * **Private Index Coding**
 	* with  Jithin Ravi, Vivek K. Mishra, Bikash Kumar Dey, Nikhil Karamchandani, and Vinod M. Prabhakaran
 	* IEEE Trans. Inf. Theory 2022
