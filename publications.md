@@ -4,19 +4,19 @@ author_profile: true
 permalink: /publications/
 ---
 #### Publications
-* ** Perfect MPC over Layered Graphs
+* **Perfect MPC over Layered Graphs**
 	* with Bernardo David, Yuval Ishai, Anders Konring, Eyal Kushilevitz
 	* To appear in CRYPTO 2023
     
-* ** One-Message Secure Reductions: On the Cost of Converting. \newline
+* **One-Message Secure Reductions: On the Cost of Converting**
     * with Mahimna Kelkar, Yuval Ishai, Liav Zafar
     * to appear in CRYPTO 2023
     
-* ** Randomness Requirements for Three-Secret Sharing
+* **Randomness Requirements for Three-Secret Sharing**
     * with Hari Krishnan Anilkumar, Aayush Rajesh, Manoj Prabhakaran, Vinod M. Prabhakaran
     * to appear in ISIT 2023
     
-* ** Complete Characterization of Broadcast and Pseudo-Signatures from Correlations. \newline
+* **Complete Characterization of Broadcast and Pseudo-Signatures from Correlations**
     * with Vinod M. Prabhakaran, Neha Sangwan, Shun Watanabe
     * EUROCRYPT 2023
 * **Secure Non-Interactive Reducibility is Decidable**
