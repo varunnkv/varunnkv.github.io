@@ -4,17 +4,21 @@ author_profile: true
 permalink: /publications/
 ---
 #### Publications
+* **Cryptography from Planted Graphs: Security with Logarithmic-Size Messages**
+    * with Damiano Abram, Amos Beimel, Yuval Ishai, Eyal Kushilevitz
+	* TCC 2023
 * **Perfect MPC over Layered Graphs**
 	* with Bernardo David, Yuval Ishai, Anders Konring, Eyal Kushilevitz
-	* To appear in CRYPTO 2023
+	* Parallel work by 	Giovanni Deligios, Aarushi Goel, Chen-Da Liu-Zhang
+	* CRYPTO 2023
     
 * **One-Message Secure Reductions: On the Cost of Converting**
     * with Mahimna Kelkar, Yuval Ishai, Liav Zafar
-    * to appear in CRYPTO 2023
+    * CRYPTO 2023
     
 * **Randomness Requirements for Three-Secret Sharing**
     * with Hari Krishnan Anilkumar, Aayush Rajesh, Manoj Prabhakaran, Vinod M. Prabhakaran
-    * to appear in ISIT 2023
+    * ISIT 2023
     
 * **Complete Characterization of Broadcast and Pseudo-Signatures from Correlations**
     * with Vinod M. Prabhakaran, Neha Sangwan, Shun Watanabe
