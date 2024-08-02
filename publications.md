@@ -4,9 +4,14 @@ author_profile: true
 permalink: /publications/
 ---
 #### Publications
+* **Constant-Round Simulation-Secure Coin Tossing Extension with Guaranteed Output**
+    * with 	Damiano Abram, Jack Doerner, Yuval Ishai
+	* CRYPTO 2024
+
 * **Cryptography from Planted Graphs: Security with Logarithmic-Size Messages**
     * with Damiano Abram, Amos Beimel, Yuval Ishai, Eyal Kushilevitz
 	* TCC 2023
+
 * **Perfect MPC over Layered Graphs**
 	* with Bernardo David, Yuval Ishai, Anders Konring, Eyal Kushilevitz
 	* Parallel work by 	Giovanni Deligios, Aarushi Goel, Chen-Da Liu-Zhang
